@@ -9,9 +9,6 @@ import './header.styles.scss'
 
 const Header = () => (
     <div className = "header" >
-        {/*<Link className="logo-container" to="/">
-            <Logo className="logo"/>
-//</Link>*/}
         <div className="options">
             <button className="option" to="/">Trending </button> &nbsp;
             <button className="option" to="/">Archive </button> &nbsp;
